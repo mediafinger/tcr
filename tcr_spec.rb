@@ -8,7 +8,6 @@ class Tcr
   end
 
   def self.square(n)
-    return 0 if n == 0
     n * n
   end
 end
