@@ -6,6 +6,10 @@ class Tcr
 
     fib(n - 1) + fib(n -2)
   end
+
+  def self.square(n)
+    0
+  end
 end
 
 describe Tcr do
@@ -14,5 +18,9 @@ describe Tcr do
     expect(described_class.fib(2)).to eq(1)
     expect(described_class.fib(3)).to eq(2)
     expect(described_class.fib(4)).to eq(3)
+  end
+
+  it "tests squaring numbers" do
+    expect(described_class.square(0)).to eq(0)
   end
 end
