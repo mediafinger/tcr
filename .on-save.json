@@ -1,6 +1,6 @@
 [
   {
-    "command": "bundle exec rspec *_spec.rb && git commit -am 'Hooray' || git reset --hard",
+    "command": "bundle exec rspec *_spec.rb && git commit -am 'Fibonacci' || git reset --hard",
     "destDir": ".",
     "files": "**/*.rb",
     "showError": "true",
