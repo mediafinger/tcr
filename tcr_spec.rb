@@ -1,4 +1,5 @@
 require "rspec"
+require_relative "./tcr.rb"
 
 class Tcr
   def self.fib(n)
