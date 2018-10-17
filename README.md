@@ -61,7 +61,12 @@ And yes, this is highly experimental at the moment, but at the same time thought
 
 ## Read more:
 
-{::options parse_block_html="false" /}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New post on the <a href="https://twitter.com/hashtag/sourcediving?src=hash&amp;ref_src=twsrc%5Etfw">#sourcediving</a> blog about our unforgettable day with <a href="https://twitter.com/KentBeck?ref_src=twsrc%5Etfw">@KentBeck</a> <a href="https://t.co/yn1WwTeYzh">https://t.co/yn1WwTeYzh</a></p>&mdash; Cookpad Developers (@cookpad_dev) <a href="https://twitter.com/cookpad_dev/status/1051153329601085440?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">New post on the <a href="https://twitter.com/hashtag/sourcediving?src=hash&amp;ref_src=twsrc%5Etfw">#sourcediving</a> blog about our unforgettable day with <a href="https://twitter.com/KentBeck?ref_src=twsrc%5Etfw">@KentBeck</a>
+  
+  <a href="https://t.co/yn1WwTeYzh">https://t.co/yn1WwTeYzh</a>
+  </p>
+  <a href="https://twitter.com/cookpad_dev">Cookpad Developers (@cookpad_dev)</a> - <a href="https://twitter.com/cookpad_dev/status/1051153329601085440?ref_src=twsrc%5Etfw">October 13, 2018</a>
+</blockquote>
 
 <sub>(and find me on at least 3 photos)</sub>
