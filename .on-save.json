@@ -1,0 +1,10 @@
+[
+  {
+    "command": "rspec tcr_spec.rb && git commit -am 'Hooray' || git reset --hard",
+    "destDir": ".",
+    "files": "**/*.rb",
+    "showError": "true",
+    "showOutput": "true",
+    "srcDir": "."
+  }
+]
