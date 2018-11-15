@@ -2,9 +2,6 @@ require "rspec"
 
 class Fibonacci
   def self.fib(n)
-    return 0 if n == 0
-    return 1 if n == 1
-
     if n == 0
       return 0
     elsif n == 1
