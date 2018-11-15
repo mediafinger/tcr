@@ -8,7 +8,6 @@ class Fibonacci
       return 1
     end
 
-
     fib(n - 1) + fib(n - 2)
   end
 end
