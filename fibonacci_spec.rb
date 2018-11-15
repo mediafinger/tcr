@@ -10,5 +10,6 @@ describe Fibonacci do
   it "tests" do
     expect(described_class.fib(1)).to eq(1)
     expect(described_class.fib(2)).to eq(1)
+    # expect(described_class.fib(3)).to eq(2)
   end
 end
