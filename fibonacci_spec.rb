@@ -5,6 +5,13 @@ class Fibonacci
     return 0 if n == 0
     return 1 if n == 1
 
+    if n == 0
+      return 0
+    elsif n == 1
+      return 1
+    end
+
+
     fib(n - 1) + fib(n - 2)
   end
 end
